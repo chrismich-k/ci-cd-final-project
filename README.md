@@ -1,14 +1,29 @@
-# CI/CD Tools and Practices Final Project Template
+# CI/CD Tools and Practices Final Project
 
-This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
+This repository is used for the Final Project for the Coursera course **CI/CD Tools and Practices** (IBM).
 
-## Usage
+This course focuses on replacing manual deployment processes with automated **CI/CD pipelines** to ensure efficient and error-free software delivery.
 
-This repository is to be used as a template to create your own repository in your own GitHub account. No need to Fork it as it has been set up as a Template. This will avoid confusion when making Pull Requests in the future.
+### 🛠 Key Competencies
+* **Continuous Integration (CI):** Implementing **Social Coding** and the **Git Feature Branch Workflow**.
+* **GitHub Actions:** Building and managing automated workflows, runners, and CI components.
+* **Cloud-Native CD with Tekton:** * Developing reusable **Tasks** and **Pipelines**.
+    * Configuring **Triggers** for automated pipeline execution.
+    * Managing parameters and custom task logic.
+* **Kubernetes Deployment:** Building container images and deploying applications to **OpenShift** clusters.
 
-From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template.
+### 💻 Technologies & Tools
+* **CI/CD:** GitHub Actions, Tekton
+* **Orchestration:** Kubernetes, OpenShift
+* **Version Control:** Git (Feature Branching, Social Coding)
+* **Containerization:** Docker/Podman
 
-Name your repo: `ci-cd-final-project`.
+**Part of Professional Program:**
+* [ ] **IBM DevOps and Software Engineering** — (In Progress)
+
+## Template
+
+This repository was generated from the template https://github.com/ibm-developer-skills-network/vselh-ci-cd-final-project-template.
 
 ## Setup
 
